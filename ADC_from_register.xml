@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cdtprojectproperties>
+<section name="org.eclipse.cdt.internal.ui.wizards.settingswizards.IncludePaths">
+<language name="Assembly Source File">
+<includepath>${CCS_BASE_ROOT}/msp430/include</includepath>
+<includepath>${CG_TOOL_ROOT}/include</includepath>
+
+</language>
+<language name="Assembly Source File">
+<includepath>${CCS_BASE_ROOT}/msp430/include</includepath>
+<includepath>${CG_TOOL_ROOT}/include</includepath>
+
+</language>
+<language name="C Source File">
+<includepath>${CCS_BASE_ROOT}/msp430/include</includepath>
+<includepath>${CG_TOOL_ROOT}/include</includepath>
+
+</language>
+<language name="C++ Source File">
+<includepath>${CCS_BASE_ROOT}/msp430/include</includepath>
+<includepath>${CG_TOOL_ROOT}/include</includepath>
+
+</language>
+<language name="Linker Command File">
+
+</language>
+<language name="Linker Command File">
+
+</language>
+<language name="Linker Command File">
+
+</language>
+</section>
+<section name="org.eclipse.cdt.internal.ui.wizards.settingswizards.Macros">
+<language name="Assembly Source File">
+<macro>
+<name>__MSP430G2553__</name><value/>
+</macro>
+
+</language>
+<language name="Assembly Source File">
+<macro>
+<name>__MSP430G2553__</name><value/>
+</macro>
+
+</language>
+<language name="C Source File">
+<macro>
+<name>__MSP430G2553__</name><value/>
+</macro>
+
+</language>
+<language name="C++ Source File">
+<macro>
+<name>__MSP430G2553__</name><value/>
+</macro>
+
+</language>
+<language name="Linker Command File">
+
+</language>
+<language name="Linker Command File">
+
+</language>
+<language name="Linker Command File">
+
+</language>
+</section>
+</cdtprojectproperties>
