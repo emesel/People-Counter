@@ -31,3 +31,14 @@
 # Debug files
 *.dSYM/
 *.su
+
+# OS junk files
+[Tt]humb.db
+*.DS_Store
+
+# CCS
+Debug/
+Release/
+.xdchelp
+.config/
+.launches/
